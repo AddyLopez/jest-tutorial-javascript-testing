@@ -1,0 +1,15 @@
+{
+  "name": "jest-tutorial-javascript-testing",
+  "version": "1.0.0",
+  "description": "Tutorial to learn Jest, a popular JavaScript library for creating, running, and structuring tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
