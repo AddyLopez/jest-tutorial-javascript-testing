@@ -10,5 +10,8 @@ describe("Filter function", () => {
 
     // expected output: an array with a single object, given 'link' as the search term
     const output = [{ id: 3, url: "https://www.link3.dev" }];
+
+    // use the expect method and a Jest matcher (toEqual) to verify that the results match the expected output
+    expect(filterByTerm(input, "link")).toEqual(output);
   });
 });
