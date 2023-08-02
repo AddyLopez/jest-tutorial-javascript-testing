@@ -1,5 +1,6 @@
 const filterByTerm = (inputArr, searchTerm) => {
-  return inputArr.filter((arrayElement) => arrayElement.url.match(searchTerm));
+  const regex = new RegExp(searchTerm, "i"); // case-insensitive regular expression
+  return inputArr.filter((arrayElement) => arrayElement.url.match(regex));
 };
 
 // Per the specification, the function under the test should leave out the objects whose url property does not match the given search term
