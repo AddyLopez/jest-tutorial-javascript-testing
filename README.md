@@ -23,5 +23,8 @@ In this project, my code follows along to a tutorial to learn Jest, a popular Ja
 
 ## HTML Code Coverage
 
+A general look at how filterByTerm.js is performing with respect to code coverage:
 ![HTML Code Coverage, Graphic 1](./preview/Jest-HTML-code-coverage.png)
+
+A detailed look at which specific lines are note covered by the current testing suite:
 ![HTML Code Coverage, Graphic 2](./preview/Jest-HTML-code-coverage-2.png)
