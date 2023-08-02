@@ -15,7 +15,7 @@ In this project, my code follows along to a tutorial to learn Jest, a popular Ja
 - Ample use of the "npm test" command from the Terminal
 - Practice isolating logic extraneous to the testing logic in its own file and using the Node method, require(), to make use of the function in the testing suite
 - Learned about how to configure and make use of Jest's built-in code coverage feature in the Terminal
-- Learned about how to configure and make use of Jest's HTML report for code coverage, an analytical visual tool (shown below) to identify which areas of my code are not currently covered by the test suite and require new tests.
+- Learned about how to configure and make use of Jest's HTML report for code coverage, an analytical visual tool to identify which areas of my code are not currently covered by the test suite and require new tests. (See the usefulness of this tool in the images below.)
 
 ## Jest Passing Test
 
