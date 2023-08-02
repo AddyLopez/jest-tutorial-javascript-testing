@@ -16,5 +16,8 @@ describe("Filter function", () => {
 
     // use the expect method and a Jest matcher (toEqual) to verify that the results match the expected output
     expect(filterByTerm(input, "link")).toEqual(output);
+
+    // new test with upper-case search term
+    expect(filterByTerm(input, "LINK")).toEqual(output);
   });
 });
