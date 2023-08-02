@@ -9,7 +9,7 @@ In this project, my code follows along to a tutorial to learn Jest, a popular Ja
 ## Technical Skills
 
 - Proper installation and setup of the Jest dependency
-- Use of Jest's describe and test methods to set up expressive unit tests
+- Use of Jest's describe() and test() methods to set up expressive unit tests
 - Practice writing a test suite using Jest's expect() method and toEqual() matcher to verify the actual results with the expected output for two cases
 - Gained experience with Test-Driven Development (TDD), which moves from a failing test to a passing test (also called the "red-green-refactor" development cycle). The first failing test produced a Reference Error that I had to resolve to move from "red" to "green."
 - Ample use of the "npm test" command from the Terminal
