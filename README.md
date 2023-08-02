@@ -19,6 +19,7 @@ In this project, my code follows along to a tutorial to learn Jest, a popular Ja
 
 ## Jest Passing Test
 
+A preview of a passing test, or getting into "the green":
 ![Jest Passing Test](./preview/Jest-passing-test.png)
 
 ## HTML Code Coverage
@@ -26,5 +27,5 @@ In this project, my code follows along to a tutorial to learn Jest, a popular Ja
 A general look at how filterByTerm.js is performing with respect to code coverage:
 ![HTML Code Coverage, Graphic 1](./preview/Jest-HTML-code-coverage.png)
 
-A detailed look at which specific lines are note covered by the current testing suite:
+A detailed look at which specific lines are not covered by the current testing suite:
 ![HTML Code Coverage, Graphic 2](./preview/Jest-HTML-code-coverage-2.png)
